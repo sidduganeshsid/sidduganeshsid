@@ -4,6 +4,7 @@
 
 <h2 align="center"><img src="header.gif"></h2>
 <a href="https://wakatime.com/badge/user/018cb669-35aa-41b9-8555-95dffe3a1da2/project/018cb670-b499-4ced-bc5c-f898087c3e99"><img src="https://wakatime.com/badge/user/018cb669-35aa-41b9-8555-95dffe3a1da2/project/018cb670-b499-4ced-bc5c-f898087c3e99.svg" alt="wakatime"></a>
+
 - 👋 Hi, I’m @sidduganeshsid
 - 👀 I’m interested in Programming (c++)
 - 🌱 I’m currently learning c++ .
