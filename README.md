@@ -17,5 +17,5 @@ sidduganeshsid/sidduganeshsid is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 # Hai, Welcome to My Profile
-I am specialized in FULL STACK JAVA & MERN STACK
+<!--I am specialized in FULL STACK JAVA & MERN STACK-->
 
