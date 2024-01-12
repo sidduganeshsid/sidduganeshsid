@@ -19,4 +19,5 @@ You can click the Preview link to take a look at your changes.
 # Hai, Welcome to My Profile
 <!--I am specialized in FULL STACK JAVA & MERN STACK-->
 <figure><embed src="https://wakatime.com/share/@SidduGanesh/f9127335-f1ad-41ea-89be-7c55c63e77d7.svg"></embed></figure>
+<figure><embed src="https://wakatime.com/share/@SidduGanesh/f9127335-f1ad-41ea-89be-7c55c63e77d7.svg"></embed></figure>
 
