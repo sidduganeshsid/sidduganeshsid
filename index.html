@@ -1,1 +1,60 @@
-<h1>Siddu Ganesh Musa</h1>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+      .navbar {
+        background-color: black;
+        color: white;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        justify-items: center;
+      }
+      .left-nav{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        & h1 {
+            background-color: red;
+            color: black;
+            padding: 10px;
+        }
+      }
+      .right-nav{
+        display: flex;
+        /* padding: 10px; */
+
+        & div {
+          padding: 5px;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <nav class="navbar">
+        <div class="left-nav">
+          <div>|||</div>
+          <h1>Siddu Ganesh</h1>
+        </div>
+
+        <div class="right-nav">
+            <div>Skills</div>
+            <div>Projects</div>
+            <div>Work</div>
+        </div>
+      </nav>
+    </header>
+  </body>
+</html>
+
