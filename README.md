@@ -24,7 +24,5 @@ You can click the Preview link to take a look at your changes.
 <!--I am specialized in FULL STACK JAVA & MERN STACK
 <figure><embed src="https://wakatime.com/share/@SidduGanesh/f9127335-f1ad-41ea-89be-7c55c63e77d7.svg"></embed></figure>
 <figure><embed src="https://wakatime.com/share/@SidduGanesh/f9127335-f1ad-41ea-89be-7c55c63e77d7.svg"></embed></figure>-->
+<a href="https://wakatime.com/@018cb669-35aa-41b9-8555-95dffe3a1da2"><img src="https://wakatime.com/badge/user/018cb669-35aa-41b9-8555-95dffe3a1da2.svg" alt="Total time coded since Dec 29 2023" /></a>
 
-<figure><embed src="https://wakatime.com/share/@SidduGanesh/f9127335-f1ad-41ea-89be-7c55c63e77d7.svg"></embed></figure>
-
-<figure><embed src="https://wakatime.com/share/@SidduGanesh/f428fa93-f24d-4d41-8053-7aa1412c7f09.svg"></embed></figure>
